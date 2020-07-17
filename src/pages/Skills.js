@@ -14,7 +14,7 @@ const skills = props =>(
                     <h3>Major:</h3>
                     <p>Bachelor of Computing, Computer Science (Co-op)</p>     
                     <h3>Minor:</h3>
-                    <p>University of Guelph</p>
+                    <p>Marketing</p>
                 </div>    
             </Grid>
 
