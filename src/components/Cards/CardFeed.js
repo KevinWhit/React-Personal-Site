@@ -58,7 +58,7 @@ const CardFeed =props=> {
                           for collecting requirements, turning requirements into user stories, and developing the site.
                           I facilitated the merging of the BFPO and IAR departments to create one unified site.
                           All pages were AODA compliant meeting AA compliance as outlined in WCAG 2.0. I built it with
-                          HTML, Drupal, and managed the project with Azure DevOps." linkAddress="guelphWorkTermReport"
+                          HTML, Drupal, and managed the project with Azure DevOps." linkAddress="/guelphWorkTermReport"
                         />
                     </Grid>
 
