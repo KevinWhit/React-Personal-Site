@@ -1,0 +1,70 @@
+.home__header{
+    margin-top: 110px;
+    
+}
+
+.container{
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+
+  
+.sub-container {
+    display: inline-block;
+    
+    
+  }
+
+.intro__text{
+    color: #2355a6;
+    font-size: 30px;
+    margin: 0;
+}
+
+.name__text{
+    font-size: 60px;
+    margin: 0;
+}
+
+.lead__text{
+    font-size: 30px;
+    margin: 0;
+}
+
+.email{
+    padding-top: 10px;
+    width: 8%;
+    height: 8%;
+}
+.link{
+    padding-top: 10px;
+    width: 11%;
+    height: 11%;
+}
+
+.button {
+    transition-duration: 0.4s;
+    margin: 20px;
+    background-color: #2355a6;
+    border-radius: 12px;
+    font-size: 20px;
+  }
+  
+.button:hover {
+    background-color: black; /* Green */
+    color: white;
+    
+}
+
+.button2 {
+    transition-duration: 0.4s;
+    margin: 20px;
+    font-size: 20px;
+    border-radius: 12px;
+  }
+  
+.button2:hover {
+    background-color: black; /* Green */
+    color: white;
+}

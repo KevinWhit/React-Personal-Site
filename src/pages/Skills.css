@@ -1,0 +1,43 @@
+.skills__header{
+    margin-top: 80px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.container2{
+    text-align: center;
+    display: flex;
+}
+ 
+.sub-container2 {
+    display: inline-block;
+    background: #E8E8E8;
+    margin: 10px;
+    padding:5px;
+    text-align: left;
+  }
+
+.head{
+    text-align: center;
+}
+.row{
+    content: "";
+    display: flex;
+    clear: both; 
+}
+.column {
+    float: left;
+    width: 28%;
+    margin: 40px;
+    background: #E8E8E8;
+    padding:10px;
+    
+  }
+
+  .item h3{
+      color: #4e9ce6;
+      font-size: 22px;
+  }
+  .item p{
+    font-size: 20px;
+}
